@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.navbar{
+    margin-left: 140px;
+}
 
 div.infrastructure{
 position: -webkit-sticky;

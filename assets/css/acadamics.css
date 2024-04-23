@@ -16,6 +16,7 @@ text-align: center;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 40px;
+    margin-left: 100px;
     
 }
 .head>p{
@@ -34,6 +35,9 @@ text-align: center;
     height: 40px;
     margin-left: -40px;
     border-radius: 5px ;
+}
+.whole{
+    margin-left: 140px;
 }
 .whole button{
     font-weight: bold;
